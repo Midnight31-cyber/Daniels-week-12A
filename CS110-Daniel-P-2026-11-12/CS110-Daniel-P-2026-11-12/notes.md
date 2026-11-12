@@ -409,6 +409,14 @@ due: 2026-11-12T20:30
 done: false
 result: 
 
+## 4
+id: f1e25ce5-e695-4fbf-81d9-3bc4d427c905
+task: help build hello world
+owner: PERSON-A810520A6425EF242595EF4D
+due: 2026-11-12T20:30
+done: false
+result: 
+
 # reportA
 checkpoint: we finished the huddle+plan work line we talked about are agreed game engine and everyone's job/task for the week or day.
 evidence: i saved the pdf and whiteboards and i made sure to push and save the commit changes.
@@ -416,3 +424,20 @@ next: are next task is to work together to and finsh the next line called execut
 
 # reportABoard
 notes: i had explained the work we did in the board for today 
+
+# dayBReview
+recap: what i understand is that our goal is to make a mod with aspects of Pokémon into Minecraft and to be able to try and catch a Minecraft mob with a poke ball and make sure the output of the product is good and not many bugs another thing i understand as a team is we all need to be accountable for each and make sure each member has done what they need to do for the day/week. my job is to make the sure the output is ready and doesn't have many bugs or glitches in it runs perfectly fine or at least is playable and see how we can fix it later. what i need to clarify is the issues and the quality of the mod for my team so we can be able to fix it.
+goal: true
+owners: true
+blockers: true
+notes: Time Management be on time be responsible use ai when your having troubles with finding the errors.
+returnToB: false
+
+# reportB
+execution: after building and testing i personally executed the fbx no animations though figuring that out slowly made the text document.log so i can keep track of the output of the work currently waiting for the final output to check it.
+tests: what i recorded was how to import a fbx and a model into unity and make it work. i was able to open the project and mess around with it and make it all work except the animation. one failure was the texture work one fix was importing the fbx and the scene and scripts no retest yet we are waiting on that. no other separate observed results from my predictions. i have nothing from my test and saved files 
+handoff: i added my unity attempt for the project and i added my work documentation to get it all to log on what we did that day.
+reflection: what i verified was the importation and the working textures and models. what remains is the animation and the game itself. we should all help each other get better and do good work and help those who ask even when confused.
+
+# reportBBoard
+notes: i kind of summed it down easier to understand.
